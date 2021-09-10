@@ -1,0 +1,2 @@
+=> owlcarusel 
+border => solid, dotted, dashed, double, groove
